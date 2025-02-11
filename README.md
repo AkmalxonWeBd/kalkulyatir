@@ -1,1 +1,1 @@
-# kalkulyatir
+# kalkulyator
